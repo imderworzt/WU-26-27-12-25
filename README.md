@@ -1,4 +1,4 @@
-<img width="1919" height="655" alt="image" src="https://github.com/user-attachments/assets/5bba8a2f-1755-4507-adcb-aa7a10285ed3" /># WU-26-27-12-25
+# WU-26-27-12-25
 
 Có 3 bài và mình làm được bài 1 và bài 3
 
